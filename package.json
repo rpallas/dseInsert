@@ -1,0 +1,19 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dseInsert.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.23.0",
+    "streamtest": "^1.2.2"
+  }
+}
