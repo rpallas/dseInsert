@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ava": "0.25.0",
+    "ava": "3.15.0",
     "streamtest": "1.2.4"
   }
 }
